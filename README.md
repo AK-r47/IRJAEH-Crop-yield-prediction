@@ -150,9 +150,4 @@ This tool serves as a predictive aid—not a substitute for expert agronomic adv
 
 ---
 
-Let me know if you'd like code snippets, data schema details, or deployment setup!
-
-[1]: https://irjaeh.com/index.php/journal/article/view/998?utm_source=chatgpt.com "Sustainable Crop Yield Prediction"
-[2]: https://www.researchgate.net/publication/391749834_Agriculture_Data_Analysis_and_Crop_Yield_Prediction_Using_Machine_Learning?utm_source=chatgpt.com "Agriculture Data Analysis and Crop Yield Prediction Using Machine ..."
-[3]: https://www.mdpi.com/2071-1050/16/21/9437?utm_source=chatgpt.com "Predicting Sustainable Crop Yields: Deep Learning and Explainable ..."
-[4]: https://www.researchgate.net/publication/379126754_Empirical_Analysis_of_Crop_Yield_Prediction_Using_Hybrid_Model?utm_source=chatgpt.com "Empirical Analysis of Crop Yield Prediction Using Hybrid Model"
+https://irjaeh.com/index.php/journal/article/view/998/911
