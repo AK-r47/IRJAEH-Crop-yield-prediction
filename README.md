@@ -64,7 +64,8 @@ Clean frontend interface integrates seamlessly with the ML backend ([ResearchGat
 
 ## 📂 Repository Structure
 
-
+---
+---
 ├── README.md
 ├── data/
 │   ├── dataset.csv
@@ -80,7 +81,7 @@ Clean frontend interface integrates seamlessly with the ML backend ([ResearchGat
 │   └── utils/
 ├── requirements.txt
 └── LICENSE
-
+---
 ---
 
 ## 🚀 Installation & Usage
